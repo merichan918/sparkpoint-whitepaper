@@ -76,4 +76,15 @@ With SparkPoint Ecosystem, people can now settle utility and credit card bills, 
 
 SparkPoint Ecosystem as an all-in-one platform will have four divisions namely, SparkX, SparkRoom, SparkPlace and SparkPlay.
 
+![](images/sparkpoint-ecosystem.png)
+
 SparkX will provide alternative payment gateway with real-time to almost real-time payment and exchange transaction posting with no to minimal transaction fee{s). This will be made possible by its native token, SPRK, that will stimulate the internal and external transactions. As an innovative financial platform, SparkPoint Ecosystem would reach the financially excluded majority population of the world particularly in the Southeast Asia.
+
+SparkRoom is an integrated library of articles, learning materials and modules to promote financial literacy and stimulate financial inclusion to the mass population. Aside from formal financial education, this also aims to encourage the use and spread the benefits of cryptocurrencies and Blockchain technology.
+
+SparkPlace is an in-application marketplace where user-members can sell and purchase products and services without using other intermediaries to list products and accept payments. This will be the most inclusive marketplace accepting wide range of cryptocurrencies converted to SparkPoint Token or by using fiat currencies. Different from the existing marketplaces, real rewards will be given to loyal customers and merchants, a reward that has real value and can be converted to fiat currencies.
+
+SparkPlay, a division that will let the users earn rewards by just playing Blockchain integrated games. A truly unconventional way of playing where users will be rewarded by tokens that has real world value which they can later convert to other cryptocurrency or fiat currencies and use in other platforms.
+
+
+
