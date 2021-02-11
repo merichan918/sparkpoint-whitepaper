@@ -6,7 +6,7 @@ SparkPoint Ecosystem Whitepaper Version 2.1
 
 * [IMPORTANT NOTICE](#important-notice)
 * [Vision & Mission]()
-* [Introduction]()
+* [Introduction](#introduction)
 * [Problems]()
 * [Market Opportunities]()
 * [Solution]()
@@ -66,3 +66,14 @@ RISK
 
 Potential purchasers of SPRK should consider and evaluate all risks and uncertainties associated with SparkPoint Ecosystem, SparkPoint Token and all information stated in this whitepaper. If any of suck risks develops into actual events, the business, financial condition, political and economic situation in your jurisdiction, international war or acts of terrorism, results of operations, all forecasts of SparkPoint Ecosystem could be unfavorably affected. In such cases, you may lose all or part of the value of SparkPoint Token.
 
+## INTRODUCTION
+
+The market has a fast-growing demand for fast, reliable, comprehensive, accessible, and low transaction fee payment channels. Existing payment options like money remittance center, online banking and e-wallet for fiat currencies still lack of these features and benefit. Now, people are looking for an alternative which is accessible to all regardless of social status, gender, nationality and location while keeping their sensitive personal information safe from security threats and fraud. Also, an alternative payment channel that is rewarding.
+
+SparkPoint Ecosystem is a ground-breaking payment gateway alternative that will not just provide convenience to the market but will also educate the people on financial literacy and satisfy entertainment needs while rewarding its users. An all-in-one web-based and mobile application using the Blockchain Technology and is integrated to use cryptocurrencies and fiat currencies.
+
+With SparkPoint Ecosystem, people can now settle utility and credit card bills, pay tuition fees, insurance premiums and online purchases, remit both fiat and digital currencies, and pay for government mandated taxes, licenses and transactions in an incorruptible, transparent and fast manner.
+
+SparkPoint Ecosystem as an all-in-one platform will have four divisions namely, SparkX, SparkRoom, SparkPlace and SparkPlay.
+
+SparkX will provide alternative payment gateway with real-time to almost real-time payment and exchange transaction posting with no to minimal transaction fee{s). This will be made possible by its native token, SPRK, that will stimulate the internal and external transactions. As an innovative financial platform, SparkPoint Ecosystem would reach the financially excluded majority population of the world particularly in the Southeast Asia.
