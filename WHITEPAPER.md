@@ -11,7 +11,7 @@ SparkPoint Ecosystem Whitepaper Version 2.1
 * [Market Opportunities]()
 * [Solution]()
   * [SparkX]()
-  * [SparkRoom]()
+  * [SparkLearn]()
   * [SparkPlace]()
   * [SparkPlay]()
 * [SparkPoint Token]()
@@ -74,13 +74,13 @@ SparkPoint Ecosystem is a ground-breaking payment gateway alternative that will 
 
 With SparkPoint Ecosystem, people can now settle utility and credit card bills, pay tuition fees, insurance premiums and online purchases, remit both fiat and digital currencies, and pay for government mandated taxes, licenses and transactions in an incorruptible, transparent and fast manner.
 
-SparkPoint Ecosystem as an all-in-one platform will have four divisions namely, SparkX, SparkRoom, SparkPlace and SparkPlay.
+SparkPoint Ecosystem as an all-in-one platform will have four divisions namely, SparkX, SparkLearn, SparkPlace and SparkPlay.
 
 ![](images/sparkpoint-ecosystem.png)
 
 SparkX will provide alternative payment gateway with real-time to almost real-time payment and exchange transaction posting with no to minimal transaction fee{s). This will be made possible by its native token, SRK, that will stimulate the internal and external transactions. As an innovative financial platform, SparkPoint Ecosystem would reach the financially excluded majority population of the world particularly in the Southeast Asia.
 
-SparkRoom is an integrated library of articles, learning materials and modules to promote financial literacy and stimulate financial inclusion to the mass population. Aside from formal financial education, this also aims to encourage the use and spread the benefits of cryptocurrencies and Blockchain technology.
+SparkLearn is an integrated library of articles, learning materials and modules to promote financial literacy and stimulate financial inclusion to the mass population. Aside from formal financial education, this also aims to encourage the use and spread the benefits of cryptocurrencies and Blockchain technology.
 
 SparkPlace is an in-application marketplace where user-members can sell and purchase products and services without using other intermediaries to list products and accept payments. This will be the most inclusive marketplace accepting wide range of cryptocurrencies converted to SparkPoint Token or by using fiat currencies. Different from the existing marketplaces, real rewards will be given to loyal customers and merchants, a reward that has real value and can be converted to fiat currencies.
 
@@ -262,9 +262,9 @@ With the growing number of people engaging in cryptocurrency exchange, they can 
 
 SparkPoint Ecosystem will launch an E-learning facility amidst the challenge of financial illiteracy the world is facing today.
 
-SparkRoom is an in-application portal which contains articles may it be news, informational or opinion that aims to provide financial literacy to the masses about the importance of financial inclusion, financial management and the benefits of Blockchain technology.
+SparkLearn is an in-application portal which contains articles may it be news, informational or opinion that aims to provide financial literacy to the masses about the importance of financial inclusion, financial management and the benefits of Blockchain technology.
 
-SparkRoom has tailor-fitted e-learning modules concerning financial management from personal to commercial level, investments, credit management and savings. There will also be a special set of module that will tackle Blockchain technology in order to increase awareness and mass adoption of this innovative technology. There will be targeted financial literacy and capability training depending on the consumers’ preferences and transactions they most use. Adequate information and education through e-learning will produce great positive impacts not only for the consumers, but also for the financial market. A financially educated individual is more likely to use financial services like savings, payment gateway and credits.
+SparkLearn has tailor-fitted e-learning modules concerning financial management from personal to commercial level, investments, credit management and savings. There will also be a special set of module that will tackle Blockchain technology in order to increase awareness and mass adoption of this innovative technology. There will be targeted financial literacy and capability training depending on the consumers’ preferences and transactions they most use. Adequate information and education through e-learning will produce great positive impacts not only for the consumers, but also for the financial market. A financially educated individual is more likely to use financial services like savings, payment gateway and credits.
 
 The portal will release an article regularly with a certain interval and depending on the most talked topics by users in different platforms like the forum site, social media and tickets submitted by the users.
 
@@ -272,7 +272,7 @@ Articles published on this section are written by our very own financial advisor
 
 BLOCKCHAIN INTEGRATED E-LEARNING SYSTEM
 
-SparkRoom will be open to all interested contributors and instructors. Fees for each courses will be determined by the course provider. High contributing instructors and students will receive SRK tokens as rewards which they can use to purchase courses or convert to fiat and other cryptocurrency.
+SparkLearn will be open to all interested contributors and instructors. Fees for each courses will be determined by the course provider. High contributing instructors and students will receive SRK tokens as rewards which they can use to purchase courses or convert to fiat and other cryptocurrency.
 
 At the end of each courses or programs, there will be an assessment for each student for the learning and a certificate will be issued through the Blockchain technology. Students will be asked to rate the course and the instructor upon completion and this will help the community to choose the best courses and programs in the platform.
 
@@ -326,7 +326,7 @@ Total Supply:
 &nbsp;&nbsp;20,000,000,000
 
 ## SparkPoint Token Usage
-SparkPoint Token (SRK) is the SparkPoint digital coin based ERC-20 token standard following the Ethereum Blockchain. SRK is designed to power the four different platforms in the SparkPoint Ecosystem, viz., SparkX, SparkPlace, SparkPlay & SparkRoom being the digital wallet, e-commerce platform, crypto-gaming platform & e-learning portal respectively.
+SparkPoint Token (SRK) is the SparkPoint digital coin based ERC-20 token standard following the Ethereum Blockchain. SRK is designed to power the four different platforms in the SparkPoint Ecosystem, viz., SparkX, SparkPlace, SparkPlay & SparkLearn being the digital wallet, e-commerce platform, crypto-gaming platform & e-learning portal respectively.
 
 It is the fundamental component that gives life to the SparkPoint Ecosystem. Anyone can participate and do business in the different platform by purchasing SRK in the market. With growing number of users and traders using the platform, there will be a higher demand for the token. As the number of SRK tokens are limited, higher demand with a shorter supply and development of SparkPoint decentralized ecosystem will continuously result to appreciation of SRK token value in the market.
 
@@ -343,7 +343,7 @@ BUY GOODS OR RENT SERVICES
 Use SRK to pay for goods and services sold at SparkPlace
 
 ENROLL AND GET CERTIFIED
-Enroll to premium courses in SparkRoom by certified instructors, pass the assessment and get certified. Pay for your tuition using SRK instead of fiat currency.
+Enroll to premium courses in SparkLearn by certified instructors, pass the assessment and get certified. Pay for your tuition using SRK instead of fiat currency.
 
 PLAY, PAY AND GET PAID
 With SparkPlay, be entertained, pay for in-app purchases using SRK and get rewarded with real world value and convert it to SRK to earn.
@@ -390,14 +390,14 @@ With this reward token, customers will be accustomed to use SparkPlace for their
 For participating merchants, they would be able to provide loyalty program to their customer without picking out big amount of investment from their pocket.
 
 
-### SPARKROOM
+### SparkLearn
 #### CONTRIBUTION PROGRAM
 
 ![](images/srcp.png)
 
-The SparkRoom aims to increase the financial literacy of the people around the world and this will be done by the help of other user-members also. Anyone who uses the SparkPoint Ecosystem is allowed to contribute an article or videos about a specific topic in connection with financial literacy like credit management, personal and commercial financial management, insurance and other related topics. Furthermore, informational articles or feature articles about Blockchain technology like history, use and importance that promotes mass adaptation and awareness are accepted.
+The SparkLearn aims to increase the financial literacy of the people around the world and this will be done by the help of other user-members also. Anyone who uses the SparkPoint Ecosystem is allowed to contribute an article or videos about a specific topic in connection with financial literacy like credit management, personal and commercial financial management, insurance and other related topics. Furthermore, informational articles or feature articles about Blockchain technology like history, use and importance that promotes mass adaptation and awareness are accepted.
 
-Anyone whose article will be chosen and posted to the SparkRoom will be compensated in accordance with the implemented criteria and will be based on the quality of the output of each contributors. Outputs can be in form of written articles, audio-visual presentation and using other media as long as it is in line and will help achieve the objectives of the SparkPoint Ecosystem.
+Anyone whose article will be chosen and posted to the SparkLearn will be compensated in accordance with the implemented criteria and will be based on the quality of the output of each contributors. Outputs can be in form of written articles, audio-visual presentation and using other media as long as it is in line and will help achieve the objectives of the SparkPoint Ecosystem.
 
 
 ### SPARKPLAY
@@ -435,7 +435,7 @@ To ensure the stability of the SRK value in the market, 10% of the quarterly pro
 
 The repurchase and buyback plan will be announced publicly and will be enforced at different phases. After the whole program, the total supply of SRK in the market will be brought down to 15 billion. SRK’s that were bought during the process will be burned and will be taken out of the circulation permanently.
 
-SparkRoom
+SparkLearn
 
 The e-learning platform of SparkPoint Ecosystem contains different types of articles and modules. To promote financial literacy among the users, we will be giving free access to most of the articles and learning modules in the platform and to generate revenue, some modules can be access in a limited time or pages only (whichever comes first) and readers can pay a minimal access fee to continue reading this limited module and other premium modules that cannot be accessed without the premium subscription.
 
