@@ -42,9 +42,9 @@ REPRESENTATION AND WARRANTIES BY YOU
 
 By accessing or possessing any information in this whitepaper, you represent and warrant to SparkPoint Ecosystem as follows:
 
-a. You acknowledge that SparkPoint Ecosystem's token - the SparkPoint Token (SPRK) does not constitute securities in any form in any jurisdiction;
+a. You acknowledge that SparkPoint Ecosystem's token - the SparkPoint Token (SRK) does not constitute securities in any form in any jurisdiction;
 b. You agree that by distributing or dissemination this whitepaper or any part thereof, you examined and complied to all applicable law, regulations or rules in your jurisdiction without liability to SparkPoint Ecosystem;
-c. You agree that in any case where you wish to purchase SPRK that SPRK are not to be interpreted or classified as:
+c. You agree that in any case where you wish to purchase SRK that SRK are not to be interpreted or classified as:
 &nbsp;&nbsp;i. Any kind of currency other than cryptocurrency;
 &nbsp;&nbsp;ii. Stocks or shares issued by any person or entity;
 c. Rights, options or derivatives of such stocks or shares;
@@ -55,16 +55,16 @@ c. Rights, options or derivatives of such stocks or shares;
 &nbsp;&nbsp;v. Unitsin a business trust;
 &nbsp;&nbsp;vi. Any other security or class of securities.
 
-d. You understand that in the case you wish to purchase SPRK, there are risks associated with it
-including the SPRK, SPE and its platforms.
+d. You understand that in the case you wish to purchase SRK, there are risks associated with it
+including the SRK, SPE and its platforms.
 
 NO OFFER OF SECURITIES OR REGISTRATION
 
-This whitepaper is not an offer document of any sort and is not intended to constitute an offer of securities or a solicitation for investments in securities in any jurisdiction. No entity is bound to enter into any contract or legally binding promise. Any agreement in relation to sale or purchase of SPRK is to be governed by only the Terms and Conditions (T&C's) and no other document.
+This whitepaper is not an offer document of any sort and is not intended to constitute an offer of securities or a solicitation for investments in securities in any jurisdiction. No entity is bound to enter into any contract or legally binding promise. Any agreement in relation to sale or purchase of SRK is to be governed by only the Terms and Conditions (T&C's) and no other document.
 
 RISK
 
-Potential purchasers of SPRK should consider and evaluate all risks and uncertainties associated with SparkPoint Ecosystem, SparkPoint Token and all information stated in this whitepaper. If any of suck risks develops into actual events, the business, financial condition, political and economic situation in your jurisdiction, international war or acts of terrorism, results of operations, all forecasts of SparkPoint Ecosystem could be unfavorably affected. In such cases, you may lose all or part of the value of SparkPoint Token.
+Potential purchasers of SRK should consider and evaluate all risks and uncertainties associated with SparkPoint Ecosystem, SparkPoint Token and all information stated in this whitepaper. If any of suck risks develops into actual events, the business, financial condition, political and economic situation in your jurisdiction, international war or acts of terrorism, results of operations, all forecasts of SparkPoint Ecosystem could be unfavorably affected. In such cases, you may lose all or part of the value of SparkPoint Token.
 
 ## INTRODUCTION
 
@@ -78,7 +78,7 @@ SparkPoint Ecosystem as an all-in-one platform will have four divisions namely, 
 
 ![](images/sparkpoint-ecosystem.png)
 
-SparkX will provide alternative payment gateway with real-time to almost real-time payment and exchange transaction posting with no to minimal transaction fee{s). This will be made possible by its native token, SPRK, that will stimulate the internal and external transactions. As an innovative financial platform, SparkPoint Ecosystem would reach the financially excluded majority population of the world particularly in the Southeast Asia.
+SparkX will provide alternative payment gateway with real-time to almost real-time payment and exchange transaction posting with no to minimal transaction fee{s). This will be made possible by its native token, SRK, that will stimulate the internal and external transactions. As an innovative financial platform, SparkPoint Ecosystem would reach the financially excluded majority population of the world particularly in the Southeast Asia.
 
 SparkRoom is an integrated library of articles, learning materials and modules to promote financial literacy and stimulate financial inclusion to the mass population. Aside from formal financial education, this also aims to encourage the use and spread the benefits of cryptocurrencies and Blockchain technology.
 
@@ -216,7 +216,7 @@ through the following but not limited to different partner channels like bank,
 brick-and-mortar centers, remittance centers, merchant stores and other money
 agents. The e-wallet is also integrated to cryptocurrency exchanges to execute
 buying, selling and exchanging cryptocurrencies using fiat currencies and vice
-versa; also, to maintain the live exchange rate of SparkPoint Token (SPRK) and other
+versa; also, to maintain the live exchange rate of SparkPoint Token (SRK) and other
 to facilitate the conversion of SparkPoint Token with other cryptocurrencies like
 Ethereum (ETH) and Bitcoin (BTC) and vice versa.
 
@@ -272,7 +272,7 @@ Articles published on this section are written by our very own financial advisor
 
 BLOCKCHAIN INTEGRATED E-LEARNING SYSTEM
 
-SparkRoom will be open to all interested contributors and instructors. Fees for each courses will be determined by the course provider. High contributing instructors and students will receive SPRK tokens as rewards which they can use to purchase courses or convert to fiat and other cryptocurrency.
+SparkRoom will be open to all interested contributors and instructors. Fees for each courses will be determined by the course provider. High contributing instructors and students will receive SRK tokens as rewards which they can use to purchase courses or convert to fiat and other cryptocurrency.
 
 At the end of each courses or programs, there will be an assessment for each student for the learning and a certificate will be issued through the Blockchain technology. Students will be asked to rate the course and the instructor upon completion and this will help the community to choose the best courses and programs in the platform.
 
@@ -298,7 +298,7 @@ other appropriate fees will be charge by then in the form of the SparkPoint Toke
 
 SparkPlay is an application and gaming store of the SparkPoint Ecosystem which will primarily use SparkPoint Token as its game and store currency. Games and application which will provide rewards with real world value to users and gamers. With SparkPlay, mobile spenders and gamers will earn rewards while they enjoy.
 
-Unlike the traditional gaming application in the market, games launched in SparkPlay is integrated with Blockchain technology. All in-app purchases like chips, gems, diamonds and coins will be made possible by SPRK and all game credits they won and earned while playing can later be converted to SPRK and cashed-out as fiat as return of their investment on the game.
+Unlike the traditional gaming application in the market, games launched in SparkPlay is integrated with Blockchain technology. All in-app purchases like chips, gems, diamonds and coins will be made possible by SRK and all game credits they won and earned while playing can later be converted to SRK and cashed-out as fiat as return of their investment on the game.
 
 Cryptogames are the solution to consumers’ boredom and loss of money due to in-app purchases without real world value. Users will also be able to earn rewards by levelling-up, winning games and by trading items in the platform.
 
@@ -314,7 +314,7 @@ Token Name:
 &nbsp;&nbsp;SparkPoint Token
 
 Symbol:
-&nbsp;&nbsp;SPRK
+&nbsp;&nbsp;SRK
 
 Decimal:
 &nbsp;&nbsp;18
@@ -326,35 +326,35 @@ Total Supply:
 &nbsp;&nbsp;20,000,000,000
 
 ## SparkPoint Token Usage
-SparkPoint Token (SPRK) is the SparkPoint digital coin based ERC-20 token standard following the Ethereum Blockchain. SPRK is designed to power the four different platforms in the SparkPoint Ecosystem, viz., SparkX, SparkPlace, SparkPlay & SparkRoom being the digital wallet, e-commerce platform, crypto-gaming platform & e-learning portal respectively.
+SparkPoint Token (SRK) is the SparkPoint digital coin based ERC-20 token standard following the Ethereum Blockchain. SRK is designed to power the four different platforms in the SparkPoint Ecosystem, viz., SparkX, SparkPlace, SparkPlay & SparkRoom being the digital wallet, e-commerce platform, crypto-gaming platform & e-learning portal respectively.
 
-It is the fundamental component that gives life to the SparkPoint Ecosystem. Anyone can participate and do business in the different platform by purchasing SPRK in the market. With growing number of users and traders using the platform, there will be a higher demand for the token. As the number of SPRK tokens are limited, higher demand with a shorter supply and development of SparkPoint decentralized ecosystem will continuously result to appreciation of SPRK token value in the market.
+It is the fundamental component that gives life to the SparkPoint Ecosystem. Anyone can participate and do business in the different platform by purchasing SRK in the market. With growing number of users and traders using the platform, there will be a higher demand for the token. As the number of SRK tokens are limited, higher demand with a shorter supply and development of SparkPoint decentralized ecosystem will continuously result to appreciation of SRK token value in the market.
 
 CRYPTOCURRENCY EXCHANGE
-Trade your SPRK to other cryptocurrency like BTC, ETH, XRP and others within SparkX and vice versa. You may also convert your SPRK to fiat currency vv.
+Trade your SRK to other cryptocurrency like BTC, ETH, XRP and others within SparkX and vice versa. You may also convert your SRK to fiat currency vv.
 
 PAY BILLS AND BUY TOP-UP LOAD
-Use your SPRK to pay utility bills, credit card bills, tuition fees and the likes as well as purchase top-up load for your mobile phone or gaming account.
+Use your SRK to pay utility bills, credit card bills, tuition fees and the likes as well as purchase top-up load for your mobile phone or gaming account.
 
 PEER-TO-PEER TRANSFER
-Pay your friends, send SPRK as gift and all at SparkX and receive SPRK as well and convert to fiat currency later on.
+Pay your friends, send SRK as gift and all at SparkX and receive SRK as well and convert to fiat currency later on.
 
 BUY GOODS OR RENT SERVICES
-Use SPRK to pay for goods and services sold at SparkPlace
+Use SRK to pay for goods and services sold at SparkPlace
 
 ENROLL AND GET CERTIFIED
-Enroll to premium courses in SparkRoom by certified instructors, pass the assessment and get certified. Pay for your tuition using SPRK instead of fiat currency.
+Enroll to premium courses in SparkRoom by certified instructors, pass the assessment and get certified. Pay for your tuition using SRK instead of fiat currency.
 
 PLAY, PAY AND GET PAID
-With SparkPlay, be entertained, pay for in-app purchases using SPRK and get rewarded with real world value and convert it to SPRK to earn.
+With SparkPlay, be entertained, pay for in-app purchases using SRK and get rewarded with real world value and convert it to SRK to earn.
 
 TRANSACTIONAL USAGE
 
-SPRK will be utilized to pay for transaction fees in the SparkX ecosystem and each user is entitled with at least 50% discount on transaction fees. Hence, this would make the SparkPoint Ecosystem to be the cheapest financial service platform in the market. Every user can avail the discounted transaction fees as long as they have an existing SPRK balance on their SparkX wallet.
+SRK will be utilized to pay for transaction fees in the SparkX ecosystem and each user is entitled with at least 50% discount on transaction fees. Hence, this would make the SparkPoint Ecosystem to be the cheapest financial service platform in the market. Every user can avail the discounted transaction fees as long as they have an existing SRK balance on their SparkX wallet.
 
 REWARDS PROGRAM
 
-Every member of the community who contributes to a healthy and firm development of the SparkPoint Ecosystem are well appreciated and will be rewarded in the form of SparkPoint Token (SPRK). This will ensure the continuous promotion, use and growth of demand of the SPRK in the market. The SPRK don’t have any expiration date and will be useable and convertible as long as the account is not in dormant status for two years
+Every member of the community who contributes to a healthy and firm development of the SparkPoint Ecosystem are well appreciated and will be rewarded in the form of SparkPoint Token (SRK). This will ensure the continuous promotion, use and growth of demand of the SRK in the market. The SRK don’t have any expiration date and will be useable and convertible as long as the account is not in dormant status for two years
 
 SPARKPOINT ECOSYSTEM REWARDS PROGRAM
 
@@ -381,9 +381,9 @@ Every time a user-member will use SparkX platform to pay bills and other micropa
 
 ![](images/slplp.png)
 
-Reward SparkPoint Token (SPRK) will also be utilized under the SparkPlace customer loyalty reward program. An innovative marketing solution to make the merchant and sellers that they are being valued and to build meaningful relationship with the user-members that will help to the growth of merchant-member sales and the use of the platform.
+Reward SparkPoint Token (SRK) will also be utilized under the SparkPlace customer loyalty reward program. An innovative marketing solution to make the merchant and sellers that they are being valued and to build meaningful relationship with the user-members that will help to the growth of merchant-member sales and the use of the platform.
 
-Customers can earn rewards in the form of SPRK for every transaction at the SparkPlace. Earned SPRK can be used to redeem products, as coupon when purchasing and can be converted to other fiat and cryptocurrencies. They can also leave it on the open market for token value appreciation.
+Customers can earn rewards in the form of SRK for every transaction at the SparkPlace. Earned SRK can be used to redeem products, as coupon when purchasing and can be converted to other fiat and cryptocurrencies. They can also leave it on the open market for token value appreciation.
 
 With this reward token, customers will be accustomed to use SparkPlace for their online shopping and get instant rewards without doing any troubling claiming steps. With this flexible reward system that let them liquidate their rewards by using for a purchase, converting to fiat or cryptocurrencies and by participating in the digital currency exchange market.
 
@@ -405,7 +405,7 @@ Anyone whose article will be chosen and posted to the SparkRoom will be compensa
 
 ![](images/srcp.png)
 
-SPRK will be rewarded to players and users of SparkPlay every time they reach a certain level or they finish a certain mission in the game they chose.
+SRK will be rewarded to players and users of SparkPlay every time they reach a certain level or they finish a certain mission in the game they chose.
 
 With this rewards program, more and more players will use each game for their entertainment and also to earn rewards which they can use for other purposes like paying bills, balance transfer, enroll in courses and buy products from the marketplace not to mention they can convert rewards to fiat currency.
 
@@ -431,9 +431,9 @@ Being a community-driven project, regular updates about the development of the p
 
 ![](images/bbrp.png)
 
-To ensure the stability of the SPRK value in the market, 10% of the quarterly profits will be used to buy SPRK’s back until 25% of all released SPRK’s or 5 billion SPRK’s are bought back. Proof of buyback process will be announced in the different SparkPoint social channels.
+To ensure the stability of the SRK value in the market, 10% of the quarterly profits will be used to buy SRK’s back until 25% of all released SRK’s or 5 billion SRK’s are bought back. Proof of buyback process will be announced in the different SparkPoint social channels.
 
-The repurchase and buyback plan will be announced publicly and will be enforced at different phases. After the whole program, the total supply of SPRK in the market will be brought down to 15 billion. SPRK’s that were bought during the process will be burned and will be taken out of the circulation permanently.
+The repurchase and buyback plan will be announced publicly and will be enforced at different phases. After the whole program, the total supply of SRK in the market will be brought down to 15 billion. SRK’s that were bought during the process will be burned and will be taken out of the circulation permanently.
 
 SparkRoom
 
@@ -498,7 +498,7 @@ SparkPoint Ecosystem's revenue will come from transactions made within different
 
 SparkPay
 
-There will be two types of wallets under the SparkPay platform, the e-wallet for fiat currencies and cryptowallet for cryptocurrencies storage. Most of the transactions under e-wallet will be offered at no charge while some will have minimal transaction fees like remittance services using third-party centers and paying bills to non-partner establishments. Conversion of cryptocurrencies from one to another will have discounted fees for conversion of SPRK to BTC and ETH and vice versa, while fees for conversion to and from other cryptocurrency will be charged at full rate.
+There will be two types of wallets under the SparkPay platform, the e-wallet for fiat currencies and cryptowallet for cryptocurrencies storage. Most of the transactions under e-wallet will be offered at no charge while some will have minimal transaction fees like remittance services using third-party centers and paying bills to non-partner establishments. Conversion of cryptocurrencies from one to another will have discounted fees for conversion of SRK to BTC and ETH and vice versa, while fees for conversion to and from other cryptocurrency will be charged at full rate.
 
 SparkPlace
 
@@ -506,7 +506,7 @@ Very minimal commission charges will be collected from participating merchants a
 
 SparkPlay
 
-SparkPoint Ecosystem will generate its revenue on premium game purchases, in-app purchases and advertisements on all games and application downloaded from and integrated with SparkPlay and SPRK.
+SparkPoint Ecosystem will generate its revenue on premium game purchases, in-app purchases and advertisements on all games and application downloaded from and integrated with SparkPlay and SRK.
 
 
 
