@@ -7,22 +7,22 @@ SparkPoint Ecosystem Whitepaper Version 2.1
 * [IMPORTANT NOTICE](#important-notice)
 * [Vision & Mission]()
 * [Introduction](#introduction)
-* [Problems]()
-* [Market Opportunities]()
-* [Solution]()
-  * [SparkX]()
-  * [SparkLearn]()
-  * [SparkPlace]()
-  * [SparkPlay]()
-* [SparkPoint Token]()
-  * [Mechanism]()
-  * [Transactional Usage]()
-  * [Rewards Program]()
-* [Roadmap]()
-* [Transparent Reports]()
-* [Buyback and Repurchase Plan]()
-* [The Team]()
-* [Support]()
+* [Problems](#problems)
+* [Market Opportunities](#market-opportunities)
+* [Solution](#solutions)
+  * [SparkX](#sparkx)
+  * [SparkLearn](#sparklearn)
+  * [SparkPlace](#sparkplace)
+  * [SparkPlay](#sparkplay)
+* [SparkPoint Token](#sparkpoint-token)
+  * [Mechanism](#sparkpoint-token-mechanism)
+  * [Transactional Usage](#transactional-usage)
+  * [Rewards Program](#rewards-program)
+* [Roadmap](#roadmap)
+* [Transparent Reports](#transparency-reports)
+* [Buyback and Repurchase Plan](#buyback-and-repurchase-plan)
+* [The Team](#the-people-behind-sparkpoint-ecosystem)
+* [Support](#official-support-channels)
 
 ## IMPORTANT NOTICE
 
@@ -308,7 +308,7 @@ SparkPoint Ecosystem will be working with small to big game developers to provid
 ### MECHANISM AND USAGE
 ### Mechanism | Transaction | Rewards
 
-SparkPoint Token Mechanism
+### SparkPoint Token Mechanism
 
 Token Name:
 &nbsp;&nbsp;SparkPoint Token
@@ -325,7 +325,7 @@ Blockchain Information:
 Total Supply:
 &nbsp;&nbsp;20,000,000,000
 
-## SparkPoint Token Usage
+### SparkPoint Token Usage
 SparkPoint Token (SRK) is the SparkPoint digital coin based ERC-20 token standard following the Ethereum Blockchain. SRK is designed to power the four different platforms in the SparkPoint Ecosystem, viz., SparkX, SparkPlace, SparkPlay & SparkLearn being the digital wallet, e-commerce platform, crypto-gaming platform & e-learning portal respectively.
 
 It is the fundamental component that gives life to the SparkPoint Ecosystem. Anyone can participate and do business in the different platform by purchasing SRK in the market. With growing number of users and traders using the platform, there will be a higher demand for the token. As the number of SRK tokens are limited, higher demand with a shorter supply and development of SparkPoint decentralized ecosystem will continuously result to appreciation of SRK token value in the market.
@@ -348,11 +348,11 @@ Enroll to premium courses in SparkLearn by certified instructors, pass the asses
 PLAY, PAY AND GET PAID
 With SparkPlay, be entertained, pay for in-app purchases using SRK and get rewarded with real world value and convert it to SRK to earn.
 
-TRANSACTIONAL USAGE
+### TRANSACTIONAL USAGE
 
 SRK will be utilized to pay for transaction fees in the SparkX ecosystem and each user is entitled with at least 50% discount on transaction fees. Hence, this would make the SparkPoint Ecosystem to be the cheapest financial service platform in the market. Every user can avail the discounted transaction fees as long as they have an existing SRK balance on their SparkX wallet.
 
-REWARDS PROGRAM
+### REWARDS PROGRAM
 
 Every member of the community who contributes to a healthy and firm development of the SparkPoint Ecosystem are well appreciated and will be rewarded in the form of SparkPoint Token (SRK). This will ensure the continuous promotion, use and growth of demand of the SRK in the market. The SRK don’t have any expiration date and will be useable and convertible as long as the account is not in dormant status for two years
 
