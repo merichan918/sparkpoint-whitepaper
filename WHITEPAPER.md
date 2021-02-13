@@ -164,11 +164,9 @@ growth rate of 14.1% from 2018 to 2023. With the emerging merchants and billers
 who integrate with digital and cashless payment options, payments by cash will
 soon be out of style.
 
-In 2017, about 1.7 billion people in the world purchased products using the
-internet with a total of 2.3 trillion USD sales in the e-commerce industry. Asia
-Pacific is claims the biggest chunk of this market which covers 12.1 percent of the
-whole e-retail sales. By the year 2021, e-commerce will be seen to produce almost
-double the sales with projected amount of 4.48 trillion USD e-retail sales.
+In 2017, about 1.7 billion people in the world purchased products using the internet with a total of 2.3 trillion USD sales in the e-commerce industry. Asia Pacific is claims the biggest chunk of this market which covers 12.1 percent of the whole e-retail sales. By the year 2021, e-commerce will be seen to produce almost double the sales with projected amount of 4.48 trillion USD e-retail sales.
+
+![](images/market-opportunities.png)
 
 In 2016, it was projected that in-app purchases will reach $37 billion for 2017. With these in-app purchases, North Americans buy the highest amount when they buy coins, gems or diamonds with the applications they use. Wherein, Asians spend 40% more on in-app purchases compared to the rest of the world.
 
@@ -192,6 +190,8 @@ SparkPoint Ecosystem sees these financial and market trends as opportunities to 
 ### Building a Better Future
 
 ## SOLUTIONS
+
+![](images/solutions.png)
 
 SAFE, FAST AND SECURE TRANSACTIONS
 
@@ -226,6 +226,8 @@ Inter-transfer of fiat currency and SPK Token is free of charge; users will only
 
 EFFICIENT KNOW-YOUR-CUSTOMER METHOD
 
+![](images/kyc.png)
+
 SparkPoint Ecosystem will introduce an efficient verification method for clients who will use the platform for financial transactions. There will be different tiers for verification that comes with different transaction limits and access to platform. Each tier will be identified as “Rank” and explained as follows:
 
 *USD 1=PHP 50
@@ -244,8 +246,9 @@ Giving the unbanked population an access to financial services will stimulate po
 
 SparkPoint Ecosystem will partner up with  local banks, brick-and-mortar merchandisers, e-commerce platforms, loan providers, remittance centers, schools and universities, utility and telecommunication services providers and with the government to provide seamless payment and remittance transaction using the e-wallet or the payment processing platform.
 
-PEER-TO-PEER TRANSFER
-AND REMITTANCE
+PEER-TO-PEER TRANSFER AND REMITTANCE
+
+![](images/ptp.png)
 
 Since  SparkX™ is also cryptocurrency exchange integrated, users can process an direct online transfer of both fiat and digital currencies based on Peer-to-Peer (P2P) transactions in the network instantly and with zero transaction fees with both having the sender and recipient using [ SparkPoint Ecosystem network. In any case that either the recipient is not yet using the SparkPoint Ecosystem, a discounted fee based on the regular rate will be charged.
 
@@ -355,8 +358,12 @@ Every member of the community who contributes to a healthy and firm development 
 
 SPARKPOINT ECOSYSTEM REWARDS PROGRAM
 
+![](images/serp.png)
+
 ### SPARKPOINT ECOSYSTEM
 #### AFFILIATE PROGRAM
+
+![](images/sear.png)
 
 To encourage more users and subscriber of the SparkPoint Ecosystem, each user-member who will reach Rank 2 verification will receive a specific amount of reward token. In addition, every Rank 2 verified user-members and their successful referral that will reach Rank 2 verification level will also receive reward token as an appreciation.
 
@@ -364,11 +371,15 @@ To encourage more users and subscriber of the SparkPoint Ecosystem, each user-me
 ### SPARKX
 #### REBATE PROGRAM
 
+![](images/sxrp.png)
+
 Every time a user-member will use SparkX platform to pay bills and other micropayments, they will receive a corresponding reward token depending on the amount of the transaction paid which they can later use to purchase at the SparkPlace, convert to other cryptocurrencies or fiat currency and cash-out in the future.
 
 
 ### SPARKPLACE LOYALTY PROGRAM
 #### LOYALTY PROGRAM
+
+![](images/slplp.png)
 
 Reward SparkPoint Token (SPRK) will also be utilized under the SparkPlace customer loyalty reward program. An innovative marketing solution to make the merchant and sellers that they are being valued and to build meaningful relationship with the user-members that will help to the growth of merchant-member sales and the use of the platform.
 
@@ -382,6 +393,8 @@ For participating merchants, they would be able to provide loyalty program to th
 ### SPARKROOM
 #### CONTRIBUTION PROGRAM
 
+![](images/srcp.png)
+
 The SparkRoom aims to increase the financial literacy of the people around the world and this will be done by the help of other user-members also. Anyone who uses the SparkPoint Ecosystem is allowed to contribute an article or videos about a specific topic in connection with financial literacy like credit management, personal and commercial financial management, insurance and other related topics. Furthermore, informational articles or feature articles about Blockchain technology like history, use and importance that promotes mass adaptation and awareness are accepted.
 
 Anyone whose article will be chosen and posted to the SparkRoom will be compensated in accordance with the implemented criteria and will be based on the quality of the output of each contributors. Outputs can be in form of written articles, audio-visual presentation and using other media as long as it is in line and will help achieve the objectives of the SparkPoint Ecosystem.
@@ -390,12 +403,17 @@ Anyone whose article will be chosen and posted to the SparkRoom will be compensa
 ### SPARKPLAY
 #### ACHIEVEMENT PROGRAM
 
+![](images/srcp.png)
+
 SPRK will be rewarded to players and users of SparkPlay every time they reach a certain level or they finish a certain mission in the game they chose.
 
 With this rewards program, more and more players will use each game for their entertainment and also to earn rewards which they can use for other purposes like paying bills, balance transfer, enroll in courses and buy products from the marketplace not to mention they can convert rewards to fiat currency.
 
 
 ## ROADMAP
+
+![](images/roadmap1.png)
+![](images/roadmap2.png)
 
 ## TRANSPARENCY REPORTS
 
@@ -411,6 +429,8 @@ Being a community-driven project, regular updates about the development of the p
 
 ## BUYBACK AND REPURCHASE PLAN
 
+![](images/bbrp.png)
+
 To ensure the stability of the SPRK value in the market, 10% of the quarterly profits will be used to buy SPRK’s back until 25% of all released SPRK’s or 5 billion SPRK’s are bought back. Proof of buyback process will be announced in the different SparkPoint social channels.
 
 The repurchase and buyback plan will be announced publicly and will be enforced at different phases. After the whole program, the total supply of SPRK in the market will be brought down to 15 billion. SPRK’s that were bought during the process will be burned and will be taken out of the circulation permanently.
@@ -423,7 +443,39 @@ Users will have different options to access the limited and premium modules acco
 
 ## THE PEOPLE BEHIND SPARKPOINT ECOSYSTEM
 
+![](images/people1.png)
+![](images/people2.png)
+![](images/people3.png)
+![](images/people4.png)
+
 ## OFFICIAL SUPPORT CHANNELS
+
+WEBSITE
+https://sparkpoint.io
+
+E-MAIL
+support@sparkpoint.io
+
+FACEBOOK
+https://www.facebook.com/sparkpointio
+
+TWITTER
+https://www.twitter.com/sparkpointio
+
+TELEGRAM (CHANNEL FOR UPDATES)
+t.me/sparkpointio
+
+TELEGRAM SUPPORT GROUP (EN)
+t.me/SparkPointOfficial
+
+REDDIT
+https://reddit.com/sparkpoint.io
+
+GITHUB
+https://github.com/sparkpointio
+
+DISCORD
+https://discordapp.com/channels/516236513403731968/
 
 ## VISION
 
