@@ -43,19 +43,30 @@ REPRESENTATION AND WARRANTIES BY YOU
 By accessing or possessing any information in this whitepaper, you represent and warrant to SparkPoint Ecosystem as follows:
 
 a. You acknowledge that SparkPoint Ecosystem's token - the SparkPoint Token (SRK) does not constitute securities in any form in any jurisdiction;
+
 b. You agree that by distributing or dissemination this whitepaper or any part thereof, you examined and complied to all applicable law, regulations or rules in your jurisdiction without liability to SparkPoint Ecosystem;
+
 c. You agree that in any case where you wish to purchase SRK that SRK are not to be interpreted or classified as:
+
 &nbsp;&nbsp;i. Any kind of currency other than cryptocurrency;
+
 &nbsp;&nbsp;ii. Stocks or shares issued by any person or entity;
-c. Rights, options or derivatives of such stocks or shares;
+
+d. Rights, options or derivatives of such stocks or shares;
+
 &nbsp;&nbsp;i. Any kind of currency other than cryptocurrency;
+
 &nbsp;&nbsp;ii. Stocks or shares issued by any person or entity;
+
 &nbsp;&nbsp;iii. Rights, options or derivatives of such stocks or shares;
+
 &nbsp;&nbsp;iv. Units in a collective investment arrangement;
+
 &nbsp;&nbsp;v. Unitsin a business trust;
+
 &nbsp;&nbsp;vi. Any other security or class of securities.
 
-d. You understand that in the case you wish to purchase SRK, there are risks associated with it
+e. You understand that in the case you wish to purchase SRK, there are risks associated with it
 including the SRK, SPE and its platforms.
 
 NO OFFER OF SECURITIES OR REGISTRATION
